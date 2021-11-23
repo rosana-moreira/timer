@@ -6,7 +6,7 @@ Aplicação desenvolvida para estudo de javaScript,
 </p>
 
 <h1 align="center">
-  <img alt="logo" title="#logo" src="./assets/git.gif" />
+  <img alt="logo" title="#logo" src="./assets/img/git.gif" />
 </h1>
 
 ### 🎲 Executando o codigo fonte
