@@ -2,7 +2,7 @@
 
 # Descrição do Projeto
 <p align="center">
-Aplicação desenvolvida para estudo de javaScript,
+Aplicação desenvolvida para estudo de javaScript.
 </p>
 
 <h1 align="center">
